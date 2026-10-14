@@ -5,9 +5,9 @@
 
 Turning ideas into thoughtful, useful digital experiences.
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://gheid-mycv.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gheid-abdulkarim-6567872ab/)
-[![Projects](https://img.shields.io/badge/View_My_Projects-334155?style=for-the-badge&logo=github&logoColor=white)](https://gheid-mycv.vercel.app/projects)
+[![Portfolio](https://img.shields.io/badge/Portfolio_↗-1F6FEB?style=flat&logo=vercel&logoColor=white)](https://gheid-mycv.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_↗-0A66C2?style=flat)](https://www.linkedin.com/in/gheid-abdulkarim-6567872ab/)
+[![Projects](https://img.shields.io/badge/Projects_↗-30363D?style=flat&logo=github&logoColor=white)](https://gheid-mycv.vercel.app/projects)
 
 </div>
 
@@ -23,25 +23,25 @@ My work spans interactive Arabic and English web experiences, AI-assisted applic
 
 **Programming**
 
-![Java](https://img.shields.io/badge/Java-334155?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-30363D?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat&logo=typescript&logoColor=58A6FF)
 
 **Web Development**
 
-![React](https://img.shields.io/badge/React-0F766E?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0F766E?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0F766E?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0F766E?style=for-the-badge&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-1F6FEB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1F6FEB?style=flat&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-1F6FEB?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1F6FEB?style=flat&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1F6FEB?style=flat&logo=tailwindcss&logoColor=white)
 
 **Areas of Work**
 
-![Applied AI](https://img.shields.io/badge/Applied_AI-6D28D9?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-6D28D9?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-6D28D9?style=for-the-badge)
-![Interactive 3D](https://img.shields.io/badge/Interactive_3D-6D28D9?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Applied AI](https://img.shields.io/badge/Applied_AI-8957E5?style=flat)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-8957E5?style=flat)
+![Automation](https://img.shields.io/badge/Automation-8957E5?style=flat)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-8957E5?style=flat)
+![Interactive 3D](https://img.shields.io/badge/Interactive_3D-8957E5?style=flat&logo=threedotjs&logoColor=white)
 
 ## Selected Projects
 
@@ -59,5 +59,5 @@ Explore [my portfolio](https://gheid-mycv.vercel.app/) for project demos, resear
 
 I'm interested in collaborating on applied AI, thoughtful interfaces, and useful software projects.
 
-[![Contact](https://img.shields.io/badge/Get_in_Touch-0F766E?style=for-the-badge)](https://gheid-mycv.vercel.app/contact)
-[![Research](https://img.shields.io/badge/Research_%26_Ideas-334155?style=for-the-badge)](https://gheid-mycv.vercel.app/research)
+[![Contact](https://img.shields.io/badge/Let’s_Talk_↗-1F6FEB?style=flat)](https://gheid-mycv.vercel.app/contact)
+[![Research](https://img.shields.io/badge/Research_%26_Ideas-30363D?style=flat)](https://gheid-mycv.vercel.app/research)
