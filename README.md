@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iamghaid/iamghaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gheid Abdulkarim
+### Applied AI · Software Development · Interactive Web Experiences
 
-Here are some ideas to get you started:
+Turning ideas into thoughtful, useful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://gheid-mycv.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gheid-abdulkarim-6567872ab/)
+[![Projects](https://img.shields.io/badge/View_My_Projects-334155?style=for-the-badge&logo=github&logoColor=white)](https://gheid-mycv.vercel.app/projects)
+
+</div>
+
+## About Me
+
+I'm Gheid, a Computer Science student at Arab Open University. I build projects at the intersection of applied AI, software development, and UI/UX—combining practical functionality with carefully crafted interfaces.
+
+My work spans interactive Arabic and English web experiences, AI-assisted applications, automation, and exploratory data analysis. I enjoy taking an idea from early exploration to a working prototype, with attention to usability, accessibility, and the details that make an experience feel intuitive.
+
+**Current focus:** applied AI, accessible digital experiences, and interactive web applications.
+
+## Skills & Technologies
+
+**Programming**
+
+![Java](https://img.shields.io/badge/Java-334155?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+**Web Development**
+
+![React](https://img.shields.io/badge/React-0F766E?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0F766E?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0F766E?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0F766E?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Areas of Work**
+
+![Applied AI](https://img.shields.io/badge/Applied_AI-6D28D9?style=for-the-badge)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-6D28D9?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-6D28D9?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-6D28D9?style=for-the-badge)
+![Interactive 3D](https://img.shields.io/badge/Interactive_3D-6D28D9?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+## Selected Projects
+
+| Project | What I explore |
+| --- | --- |
+| [Bayan](https://github.com/iamghaid/bayan) | An experimental Saudi sign-language avatar for Friday-sermon accessibility. |
+| [Social Media Growth Analysis](https://github.com/iamghaid/Social-Media-Growth-Analysis-Threads-and-TikTok-) | Exploratory analysis of simulated Threads and TikTok growth data. |
+| [Mizan](https://gheid-mycv.vercel.app/projects/mizan) | An auction review dashboard with interpretable bidder assessment. |
+| [Irth](https://gheid-mycv.vercel.app/projects/irth-vr) | Interactive Saudi craft exploration and a 3D customization prototype. |
+| [Go Mission](https://gheid-mycv.vercel.app/projects/go-mission) | A bilingual classroom teamwork game with teacher and presentation views. |
+
+Explore [my portfolio](https://gheid-mycv.vercel.app/) for project demos, research, and the thinking behind my work.
+
+## Let's Connect
+
+I'm interested in collaborating on applied AI, thoughtful interfaces, and useful software projects.
+
+[![Contact](https://img.shields.io/badge/Get_in_Touch-0F766E?style=for-the-badge)](https://gheid-mycv.vercel.app/contact)
+[![Research](https://img.shields.io/badge/Research_%26_Ideas-334155?style=for-the-badge)](https://gheid-mycv.vercel.app/research)
