@@ -1,9 +1,9 @@
 <div align="center">
 
 # Gheid Abdulkarim
-### Applied AI · Software Development · Interactive Web Experiences
+### Data Analysis · Artificial Intelligence · App Development
 
-Turning ideas into thoughtful, useful digital experiences.
+Turning data and ideas into useful applications.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio_↗-1F6FEB?style=flat&logo=vercel&logoColor=white)](https://gheid-mycv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_↗-0A66C2?style=flat)](https://www.linkedin.com/in/gheid-abdulkarim-6567872ab/)
@@ -13,17 +13,24 @@ Turning ideas into thoughtful, useful digital experiences.
 
 ## About Me
 
-I'm Gheid, a Computer Science student at Arab Open University. I build projects at the intersection of applied AI, software development, and UI/UX—combining practical functionality with carefully crafted interfaces.
+I'm Gheid, a Computer Science student at Arab Open University with a focus on data analysis, artificial intelligence, and application development. I work with Java, Python, and Flutter to turn data and ideas into practical software.
 
 My work spans interactive Arabic and English web experiences, AI-assisted applications, automation, and exploratory data analysis. I enjoy taking an idea from early exploration to a working prototype, with attention to usability, accessibility, and the details that make an experience feel intuitive.
 
-**Current focus:** applied AI, accessible digital experiences, and interactive web applications.
+**Current focus:** data analysis, applied AI, and application development with Java, Python, and Flutter.
 
 ## Skills & Technologies
+
+**Core Skills**
+
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-8957E5?style=flat)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8957E5?style=flat)
+![Flutter](https://img.shields.io/badge/Flutter-1F6FEB?style=flat&logo=flutter&logoColor=white)
 
 **Programming**
 
 ![Java](https://img.shields.io/badge/Java-30363D?style=flat)
+![Python](https://img.shields.io/badge/Python-30363D?style=flat&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat&logo=typescript&logoColor=58A6FF)
 
